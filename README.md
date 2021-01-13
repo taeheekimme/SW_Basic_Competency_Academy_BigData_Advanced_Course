@@ -7,6 +7,7 @@ Python / Jupyter Notebook
 
 ## 수업 방식
 Zoom을 통한 비대면 강의<br>
+Slack을 활용한 정보 공유 및 질문
 
 ### 커리큘럼
 1주차 : 웹 페이지 크롤링, 콘텐츠 기반 필터링(CBF), 협업필터링(CF)<br>
